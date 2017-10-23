@@ -1,0 +1,21 @@
+﻿  main.cpp
+  PixelBN.cpp
+  Image.cpp
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(101): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(114): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(124): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(201): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(247): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(293): warning C4018: '<' : incompatibilité signed/unsigned
+  GroupeImage.cpp
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\groupeimage.cpp(54): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\groupeimage.cpp(109): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\groupeimage.cpp(119): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\groupeimage.cpp(129): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  Ignoré... (aucune modification pertinente détectée)
+  bitmap.cpp
+  PixelGris.cpp
+  PixelCouleur.cpp
+  TP_3.vcxproj -> C:\Users\despe\OneDrive\documents\visual studio 2015\Projects\TP_3\Debug\TP_3.exe
+  TP_3.vcxproj -> C:\Users\despe\OneDrive\documents\visual studio 2015\Projects\TP_3\Debug\TP_3.pdb (Full PDB)

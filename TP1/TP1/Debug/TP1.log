@@ -1,0 +1,45 @@
+﻿  Image.cpp
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(22): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(29): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(47): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(61): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(67): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(70): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(80): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(112): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(115): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(126): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(171): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp1\tp1\image.cpp(174): warning C4018: '<' : incompatibilité signed/unsigned
+  TP1.vcxproj -> C:\Users\despe\OneDrive\Documents\Visual Studio 2015\Projects\TP1\Debug\TP1.exe
+  TP1.vcxproj -> C:\Users\despe\OneDrive\Documents\Visual Studio 2015\Projects\TP1\Debug\TP1.pdb (Full PDB)
+  Checking GroupImage.cpp...
+GroupImage.cpp(12): warning : (warning)  Member variable 'GroupImage::capaciteImages_' is not initialized in the constructor.
+GroupImage.cpp(12): warning : (warning)  Member variable 'GroupImage::images_' is not initialized in the constructor.
+GroupImage.cpp(17): warning : (performance)  Variable 'type_' is assigned in constructor body. Consider performing initialization in initialization list.
+GroupImage.cpp(33): warning : (performance)  Variable 'type_' is assigned in constructor body. Consider performing initialization in initialization list.
+GroupImage.h(15): warning : (style)  'class GroupImage' does not have a copy constructor which is recommended since the class contains a pointer to allocated memory.
+  1/4 files checked 13% done
+  Checking Image.cpp...
+Image.cpp(41): warning : (performance)  Variable 'nomImage_' is assigned in constructor body. Consider performing initialization in initialization list.
+Image.h(15): warning : (style)  'class Image' does not have a copy constructor which is recommended since the class contains a pointer to allocated memory.
+  2/4 files checked 50% done
+  Checking Main.cpp...
+  3/4 files checked 76% done
+  Checking Pixel.cpp...
+Pixel.cpp(172): warning : (style)  Unsigned variable 'tauxVert_' can't be negative so it is unnecessary to test it.
+Pixel.cpp(172): warning : (style)  Unsigned variable 'tauxRouge_' can't be negative so it is unnecessary to test it.
+Pixel.cpp(172): warning : (style)  Unsigned variable 'tauxBleu_' can't be negative so it is unnecessary to test it.
+  4/4 files checked 100% done
+  Checking usage of global functions..
+GroupImage.cpp(107): warning : (style)  The function 'doublerTailleImageEnHauteur' is never used.
+GroupImage.cpp(100): warning : (style)  The function 'doublerTailleImageEnLargeur' is never used.
+Image.cpp(159): warning : (style)  The function 'modifierNomImage' is never used.
+GroupImage.cpp(42): warning : (style)  The function 'modifierType' is never used.
+GroupImage.cpp(60): warning : (style)  The function 'obtenirNombreImages' is never used.
+Image.cpp(139): warning : (style)  The function 'obtenirNombrePixelHauteur' is never used.
+Image.cpp(146): warning : (style)  The function 'obtenirNombrePixelLargeur' is never used.
+Image.cpp(202): warning : (style)  The function 'obtenirPixel' is never used.
+Pixel.cpp(54): warning : (style)  The function 'obtenirTeinteBleu' is never used.
+Pixel.cpp(41): warning : (style)  The function 'obtenirTeinteRouge' is never used.
+Pixel.cpp(48): warning : (style)  The function 'obtenirTeinteVert' is never used.
