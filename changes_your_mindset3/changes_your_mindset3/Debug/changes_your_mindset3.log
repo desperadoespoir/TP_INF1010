@@ -1,0 +1,32 @@
+﻿  Piece.cpp
+  changes_your_mindset3.vcxproj -> C:\Users\despe\onedrive\documents\visual studio 2015\Projects\changes_your_mindset3\Debug\changes_your_mindset3.exe
+  changes_your_mindset3.vcxproj -> C:\Users\despe\onedrive\documents\visual studio 2015\Projects\changes_your_mindset3\Debug\changes_your_mindset3.pdb (Full PDB)
+  Checking Echiquier.cpp...
+Echiquier.cpp(4): warning : (warning)  Member variable 'Echiquier::capaciteTableauPion_' is not initialized in the constructor.
+Echiquier.cpp(4): warning : (warning)  Member variable 'Echiquier::capaciteTableauTour_' is not initialized in the constructor.
+Echiquier.h(20): warning : (style)  'class Echiquier' does not have a copy constructor which is recommended since the class contains a pointer to allocated memory.
+Echiquier.cpp(43): warning : (performance)  Function parameter 'id' should be passed by reference.
+Echiquier.cpp(65): warning : (performance)  Function parameter 'id' should be passed by reference.
+  1/6 files checked 21% done
+  Checking Main.cpp...
+  2/6 files checked 53% done
+  Checking Piece.cpp...
+Piece.h(42): warning : (style)  Technically the member function 'Piece::estMouvementValide' can be const.
+  3/6 files checked 66% done
+  Checking Pion.cpp...
+Pion.cpp(28): warning : (style)  Variable 'a' is assigned a value that is never used.
+Pion.cpp(6): warning : (warning)  Member variable 'Pion::estPositionInitiale_' is not initialized in the constructor.
+  4/6 files checked 82% done
+  Checking Roi.cpp...
+Roi.cpp(18): warning : (style)  Variable 'a' is assigned a value that is never used.
+  5/6 files checked 91% done
+  Checking Tour.cpp...
+Tour.cpp(18): warning : (style)  The scope of the variable 'a' can be reduced.
+  6/6 files checked 100% done
+Echiquier.cpp(43): warning : (style)  The function 'enleverTour' is never used.
+Piece.cpp(45): warning : (style)  The function 'modifierCouleur' is never used.
+  Checking usage of global functions..
+Piece.cpp(53): warning : (style)  The function 'obtenirPositionX' is never used.
+Piece.cpp(67): warning : (style)  The function 'obtenirPositionY' is never used.
+Roi.cpp(37): warning : (style) Devrait mettre un espace entre 'if' et la parenthese. [guide 80]  [FRB]
+Tour.cpp(20): warning : (style) Devrait mettre un espace entre 'if' et la parenthese. [guide 80]  [FRB]

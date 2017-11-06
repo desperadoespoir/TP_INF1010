@@ -1,0 +1,30 @@
+﻿  Medecin.cpp
+  changes_your_mindset_2.vcxproj -> C:\Users\despe\onedrive\documents\visual studio 2015\Projects\changes_your_mindset_2\Debug\changes_your_mindset_2.exe
+  changes_your_mindset_2.vcxproj -> C:\Users\despe\onedrive\documents\visual studio 2015\Projects\changes_your_mindset_2\Debug\changes_your_mindset_2.pdb (Full PDB)
+  Checking Hopital.cpp...
+Hopital.h(15): warning : (style)  'class Hopital' does not have a copy constructor which is recommended since the class contains a pointer to allocated memory.
+Hopital.h(30): warning : (style)  Class 'Hopital' is unsafe, 'Hopital::personnel_' can leak by wrong usage.
+  1/6 files checked 3% done
+  Checking Infirmier.cpp...
+Infirmier.cpp(6): warning : (warning)  Member variable 'Infirmier::nbChambre_' is not initialized in the constructor.
+  2/6 files checked 11% done
+  Checking Main.cpp...
+  3/6 files checked 61% done
+  Checking Medecin.cpp...
+  4/6 files checked 71% done
+  Checking Personnel.cpp...
+  5/6 files checked 92% done
+  Checking Specialite.cpp...
+  6/6 files checked 100% done
+Specialite.cpp(24): warning : (style)  The function 'modifierDomaine' is never used.
+  Checking usage of global functions..
+Infirmier.cpp(50): warning : (style)  The function 'modifierNbChambre' is never used.
+Specialite.cpp(29): warning : (style)  The function 'modifierNiveau' is never used.
+Hopital.cpp(19): warning : (style)  The function 'modifierNom' is never used.
+Hopital.cpp(31): warning : (style)  The function 'modifierPersonnel' is never used.
+Infirmier.cpp(45): warning : (style)  The function 'modifierPrenom' is never used.
+Medecin.cpp(51): warning : (style)  The function 'modifierSpecialite' is never used.
+Medecin.cpp(31): warning : (style)  The function 'obtenirHoraires' is never used.
+Infirmier.cpp(35): warning : (style)  The function 'obtenirNbChambre' is never used.
+Hopital.cpp(25): warning : (style)  The function 'obtenirPersonnel' is never used.
+Medecin.cpp(59): warning : (style) Devrait mettre un espace entre 'if' et la parenthese. [guide 80]  [FRB]

@@ -1,0 +1,13 @@
+﻿  PixelGris.cpp
+  PixelCouleur.cpp
+  PixelBN.cpp
+  Pixel.cpp
+  main.cpp
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_5\tp_5\main.cpp(111): error C2065: 'dataBase' : identificateur non déclaré
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_5\tp_5\main.cpp(111): error C2228: la partie gauche de '.obtenirListImages' doit avoir un class/struct/union
+  c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_5\tp_5\main.cpp(111): note: le type est 'unknown-type'
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_5\tp_5\main.cpp(111): error C2228: la partie gauche de '.size' doit avoir un class/struct/union
+  Image.cpp
+  GroupeImage.cpp
+  bitmap.cpp
+  Génération de code en cours...

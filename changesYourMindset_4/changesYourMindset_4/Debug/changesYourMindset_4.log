@@ -1,0 +1,31 @@
+﻿  Pion.cpp
+  Génération de code en cours...
+c:\users\despe\onedrive\documents\visual studio 2015\projects\changesyourmindset_4\changesyourmindset_4\pion.cpp(83): warning C4715: 'Pion::estMouvementValide' : les chemins de contrôle ne retournent pas tous une valeur
+  Ignoré... (aucune modification pertinente détectée)
+  Reine.cpp
+  changesYourMindset_4.vcxproj -> C:\Users\despe\onedrive\documents\visual studio 2015\Projects\changesYourMindset_4\Debug\changesYourMindset_4.exe
+  changesYourMindset_4.vcxproj -> C:\Users\despe\onedrive\documents\visual studio 2015\Projects\changesYourMindset_4\Debug\changesYourMindset_4.pdb (Full PDB)
+  Checking Echiquier.cpp...
+Piece.h(23): warning : (warning)  Member variable 'Piece::positionX_' is not initialized in the constructor.
+Piece.h(23): warning : (warning)  Member variable 'Piece::positionY_' is not initialized in the constructor.
+Piece.h(97): warning : (performance)  Technically the member function 'Piece::estMouvementValide' can be static.
+  1/7 files checked 37% done
+  Checking Fou.cpp...
+  2/7 files checked 46% done
+  Checking Main.cpp...
+  3/7 files checked 69% done
+  Checking Pion.cpp...
+  4/7 files checked 80% done
+  Checking Reine.cpp...
+Reine.h(17): warning : (style)  Technically the member function 'Reine::estMouvementValide' can be const.
+  5/7 files checked 88% done
+  Checking Roi.cpp...
+Roi.h(26): warning : (style)  Technically the member function 'Roi::estMouvementValide' can be const.
+  6/7 files checked 94% done
+  Checking Tour.cpp...
+Tour.h(27): warning : (style)  Technically the member function 'Tour::estMouvementValide' can be const.
+  7/7 files checked 100% done
+  Checking usage of global functions..
+Pion.cpp(27): warning : (style)  The function 'setEstPositionInitiale' is never used.
+EXEC : warning : (information)  Cppcheck cannot find all the include files (use --check-config for details)
+Echiquier.cpp(312): warning : (style) Devrait mettre un espace entre 'if' et la parenthese. [guide 80]  [FRB]

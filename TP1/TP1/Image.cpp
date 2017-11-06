@@ -27,7 +27,7 @@ Image ::~Image()
 {
 
 	for (int i = 0; i < nombrePixelEnHauteur_; i++)
-	{
+	{	
 		delete[] pixels_[i];
 		pixels_[i] = nullptr;
 	}

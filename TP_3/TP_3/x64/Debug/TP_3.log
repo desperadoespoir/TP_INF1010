@@ -1,0 +1,28 @@
+﻿  PixelGris.cpp
+  PixelCouleur.cpp
+  PixelBN.cpp
+  Pixel.cpp
+  main.cpp
+  Image.cpp
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(63): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(109): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(122): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(132): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(209): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(255): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\image.cpp(301): warning C4018: '<' : incompatibilité signed/unsigned
+  GroupeImage.cpp
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\groupeimage.cpp(58): warning C4267: 'return' : conversion de 'size_t' en 'unsigned int', perte possible de données
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\groupeimage.cpp(118): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\groupeimage.cpp(128): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\groupeimage.cpp(138): warning C4018: '<' : incompatibilité signed/unsigned
+  bitmap.cpp
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\bitmap.cpp(98): warning C4267: 'initialisation' : conversion de 'size_t' en 'uint32_t', perte possible de données
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\bitmap.cpp(101): warning C4267: 'initialisation' : conversion de 'size_t' en 'uint32_t', perte possible de données
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\bitmap.cpp(120): warning C4267: 'initialisation' : conversion de 'size_t' en 'uint32_t', perte possible de données
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\bitmap.cpp(124): warning C4267: 'initialisation' : conversion de 'size_t' en 'uint32_t', perte possible de données
+  Génération de code en cours...
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\pixelcouleur.cpp(78): warning C4715: 'PixelCouleur::convertirPixelBN' : les chemins de contrôle ne retournent pas tous une valeur
+c:\users\despe\onedrive\documents\visual studio 2015\projects\tp_3\tp_3\pixelgris.cpp(36): warning C4715: 'PixelGris::convertirPixelBN' : les chemins de contrôle ne retournent pas tous une valeur
+  TP_3.vcxproj -> C:\Users\despe\OneDrive\documents\visual studio 2015\Projects\TP_3\x64\Debug\TP_3.exe
+  TP_3.vcxproj -> C:\Users\despe\OneDrive\documents\visual studio 2015\Projects\TP_3\x64\Debug\TP_3.pdb (Full PDB)
